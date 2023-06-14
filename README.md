@@ -1,5 +1,5 @@
 # TextMining
 Visualizing Data Science keywords on Wikipaedia
 
-<img src="/WordCloud" alt="WordCloud" title="WordCloud">
+<img src="/WordCloud.png" alt="WordCloud" title="WordCloud">
 
